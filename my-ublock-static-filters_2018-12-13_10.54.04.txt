@@ -1,0 +1,349 @@
+[Adblock Plus 2.0]
+! Expires: 12 hours
+! Version: 20181011
+! Last Modified: 2018年10月11日 20:50
+! Homepage: http://www.qiuquan.cc/
+!
+!本规则完美过滤“优速盘”、“乐乐盘”、“即可盘”、“分享盘”、“牛盘”、“567网盘”、“678网盘”、“乱斗网盘”、“彩虹云网盘”下载界面的各种广告
+
+jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(6)
+jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:last-child
+jkpan.cc###fl_dir_box > DIV:nth-child(5) > DIV.clear:nth-child(8)
+jkpan.cc###fl_dir_box > DIV:nth-child(10) > LI.f14.txtgray
+jkpan.cc###fl_dir_box > DIV.hr:nth-child(9)
+jkpan.cc###r2 > DIV.clear:last-child
+jkpan.cc##DIV.foot_box:nth-child(12)
+jkpan.cc###fl_dir_box > DIV.file_item:nth-child(3) > DIV
+jkpan.cc###fl_dir_box > DIV:nth-child(5) > DIV.clear:last-child
+jkpan.cc###fl_dir_box > DIV:nth-child(8) > LI.f14.txtgray
+jkpan.cc###fl_dir_box > DIV:nth-child(3) > DIV.clear:last-child
+jkpan.cc###fl_dir_box > DIV.hr:nth-child(7)
+jkpan.cc##DIV.foot_box:nth-child(15)
+jkpan.cc##DIV.layout_box.box_shadow:nth-child(4) > DIV.l:first-child > DIV.file_item.f14.box_shadow:last-child
+jkpan.cc###dl_box > DIV.pd5:last-child
+jkpan.cc###r1
+jkpan.cc##DIV.foot_box:nth-child(10)
+jkpan.cc##DIV.foot_box:nth-child(21)
+jkpan.cc###aswift_1
+jkpan.cc###aswift_0
+jkpan.cc###aswift_1_anchor
+jkpan.cc###aswift_1_expand
+jkpan.cc###container > DIV:nth-child(2)
+jkpan.cc###container > DIV:last-child > CENTER
+jkpan.cc###nfooter
+jkpan.cc###container > DIV:last-child
+jkpan.cc##DIV.foot_box:nth-child(7)
+jkpan.cc##DIV.foot_box:nth-child(19)
+jkpan.cc###fl_dir_box > DIV.file_box:first-child > INS.adsbygoogle:nth-child(5)
+fxpan.com##DIV:nth-child(4) > DIV.page-footer:nth-child(13) > FOOTER.footer-nav:first-child
+fxpan.com##DIV:nth-child(4)
+fxpan.com###fl_dir_box > DIV.file_box > DIV:nth-child(2) > DIV.file_item.file_desc:first-child
+fxpan.com###fl_dir_box > DIV.file_box > DIV:nth-child(9) > LI.f14.txtgray
+fxpan.com###fl_dir_box > DIV.file_box > DIV.hr:nth-child(8)
+fxpan.com###bdshare > IMG:first-child
+fxpan.com###bdshare > A.shareCount:last-child
+fxpan.com##DIV.foot_box:nth-child(7)
+fxpan.com##DIV.page-wrapper:first-child > DIV.page-navbar:first-child > NAV.navbar > DIV.container > DIV.navbar-container:last-child > UL.nav.navbar-nav.navbar-main:first-child > LI:nth-child(4) > A
+fxpan.com##DIV.page-wrapper:first-child > DIV.page-navbar:first-child > NAV.navbar > DIV.container > DIV.navbar-container:last-child > UL.nav.navbar-nav.navbar-main:first-child > LI:nth-child(5) > A
+fxpan.com##DIV.page-wrapper:first-child > DIV.page-navbar:first-child > NAV.navbar > DIV.container > DIV.navbar-container:last-child > UL.nav.navbar-nav.navbar-main:first-child > LI:last-child > A
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:nth-child(5)
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:nth-child(3) > DIV.file_item.f14.box_shadow:last-child
+fxpan.com###dl_box
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:last-child
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:first-child > DIV:last-child
+fxpan.com###b1
+fxpan.com###addr_list > DIV.titdown
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:first-child > H1:first-child
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:first-child
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV.index213_box:last-child
+fxpan.com###container > DIV:nth-child(2) > DIV > DIV:first-child
+fxpan.com###container > DIV:nth-child(2) > DIV > DIV:last-child
+fxpan.com##DIV.page-wrapper:first-child > DIV.layout_box.box_shadow:nth-child(15) > DIV:first-child > DIV
+fxpan.com##DIV.page-wrapper:first-child > DIV.layout_box.box_shadow:nth-child(15) > DIV:first-child
+fxpan.com###f_tips
+|http://www.2pan.*/file-$s@var secs = *;@var secs = 0;@
+|http://www.2pan.*/file$s@href=\"down2-@href=\"down-@
+|http://www.2pan.*/file$s@var paypopupURL=@@
+|http://www.2pan.*$s@var paypopupURL='https://s.click.taobao.com/ei0KMTw'+authcode@nothing@
+2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV:first-child
+2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(7)
+2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(8)
+2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(10)
+2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(11)
+2pan.cc###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:first-child
+2pan.cc###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:nth-child(2)
+2pan.cc###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:last-child
+2pan.cc###fl_dir_box > DIV.hr:nth-child(9)
+2pan.cc###fl_dir_box > DIV:nth-child(10) > LI.f14.txtgray
+2pan.cc##DIV.foot_box:nth-child(13)
+2pan.cc###r1
+2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:last-child
+2pan.cc###fl_dir_box > DIV.hr:nth-child(7)
+2pan.cc##DIV.foot_box:nth-child(9)
+2pan.cc###dl_box > DIV:nth-child(2)
+2pan.cc##DIV.layout_box.box_shadow:nth-child(5) > DIV.l:first-child > DIV.file_item.f14.box_shadow:last-child
+2pan.cc##DIV.foot_box:nth-child(10)
+2pan.cc###dl_box > DIV.pd5:last-child
+2pan.cc##DIV.foot_box:nth-child(5)
+2pan.cc##DIV.foot_box:nth-child(7)
+2pan.cc##DIV.foot_box:nth-child(8)
+2pan.cc##DIV.head_box:nth-child(3) > DIV.menu:nth-child(2) > UL
+2pan.cc##DIV.foot_box:nth-child(12)
+2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(9)
+2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.widget-box.pricing-box:last-child > DIV.widget-header.widget-header-flat.header-color-red:first-child > H3.bigger.lighter
+2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.widget-box.pricing-box:last-child > DIV.widget-body:last-child > DIV.widget-main
+2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.widget-box.pricing-box:last-child > DIV.widget-header.widget-header-flat.header-color-red:first-child
+2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.widget-box.pricing-box:last-child
+2pan.cc##DIV.head_box:nth-child(4)
+2pan.cc###page-content > DIV.row-fluid > DIV.span8.offset2 > DIV.alert.alert-block.alert-danger:first-child > P:last-child
+2pan.cc###nav-search-input
+2pan.cc###nav-search-icon
+2pan.cc###b1 > DIV > A > IMG
+2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(12) > DIV:first-child > A > IMG
+2pan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(3) > DIV.file_item > LI:nth-child(12)
+2pan.cc##DIV.foot_box:nth-child(11)
+2pan.cc##DIV.layout_box.box_shadow:nth-child(6) > DIV.l:first-child > DIV.file_item.f14.box_shadow:last-child
+|http://www.yousuwp.*/file-$s@var secs = *;@var secs = 0;@
+|http://www.yousuwp.*/file$s@href=\"down2-@href=\"down-@
+|http://www.yousuwp.*/file$s@var paypopupURL=@@
+yousuwp.com###main-content > DIV:nth-child(4)
+yousuwp.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+yousuwp.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+yousuwp.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(3) > A.btn.btn-warning.btn-block
+yousuwp.com###main-content > DIV.bottom-hint:last-child
+yousuwp.com###footer
+yousuwp.com##DIV.navbar:nth-child(3) > DIV.navbar-inner > DIV.container-fluid:last-child > UL.nav.main-menu.menu-left:nth-child(2) > LI:first-child > A
+yousuwp.com##DIV.navbar:nth-child(3) > DIV.navbar-inner > DIV.container-fluid:last-child > UL.nav.main-menu.menu-left:nth-child(2) > LI:last-child > A
+yousuwp.com###page-content > DIV.page-header.position-relative > DIV.row-fluid > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV:nth-child(2)
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > A:last-child > IMG
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-warning.btn-block
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner:first-child > DIV.widget-main
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV:last-child
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4)
+yousuwp.com###page-content > DIV.bottom-hint:last-child
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV:nth-child(2)
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > A:first-child > IMG
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-warning.btn-block
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner:first-child > DIV.widget-main
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV:last-child > IMG
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:nth-child(6)
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV:last-child > UL.share_info:nth-child(4)
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:last-child
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span8:first-child > DIV.header_content:last-child
+yousuwp.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > P:nth-child(3)
+yousuwp.com##DIV.navbar:nth-child(4) > DIV.navbar-inner > DIV.container-fluid:last-child
+yousuwp.com##DIV.navbar:nth-child(4) > DIV.navbar-inner
+yousuwp.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(4)
+678p.vip###breadcrumbs > UL.breadcrumb:first-child > LI:last-child > A:last-child
+678p.vip###page-content > DIV.page-header.position-relative:first-child > A:nth-child(2) > IMG
+678p.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.span9 > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
+678p.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:nth-child(3) > TABLE.table.table-bordered.table-striped
+678p.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:nth-child(4) > A.btn.btn-danger.btn-block.STYLE1
+678p.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > A:first-child > IMG
+678p.vip###footer > DIV.text-right:first-child > DIV
+678p.vip###footer > DIV.text-right:last-child > DIV
+678p.vip###page-content > DIV.page-header.position-relative > DIV.row-fluid:first-child > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
+678p.vip###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+678p.vip###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+678p.vip###page-content > DIV.page-header.position-relative > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:last-child > A.btn.btn-danger.btn-block
+678p.vip###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+678p.vip###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+678p.vip###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+678p.vip###main-content > DIV:nth-child(4)
+678p.vip###main-content > DIV.bottom-hint:last-child
+678p.vip###nav-search-input
+678p.vip###footer
+678p.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child
+678p.vip###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body > DIV.widget-body-inner > DIV:first-child > DIV:last-child > A > SPAN
+678p.vip##DIV.navbar.navbar-inverse:nth-child(4)
+|http://www.678p.*/file-$s@href=\"down2-@href=\"down-@
+|http://www.678p.*/file-$s@var secs = *;@var secs = 0;@
+llpan.com##DIV:nth-child(15) > IFRAME:last-child
+llpan.com##DIV:nth-child(16) > IFRAME:last-child
+llpan.com###c62500
+llpan.com###c22318
+llpan.com##CENTER:nth-child(3) > IFRAME:last-child
+llpan.com###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(9) > DIV.bdsharebuttonbox.bdshare-button-style0-32:first-child
+llpan.com###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(9)
+llpan.com###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:first-child
+llpan.com###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:nth-child(2)
+llpan.com###fl_dir_box > DIV.file_item:nth-child(3) > LI.txtgray:last-child
+llpan.com###fl_dir_box > DIV:nth-child(10) > LI.f14.txtgray
+llpan.com###fl_dir_box > DIV.hr:nth-child(9)
+llpan.com##DIV.foot_box:nth-child(20)
+llpan.com###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(8)
+llpan.com###ZeroClipboardMovie_1
+llpan.com###r1
+llpan.com###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:first-child > DIV.file_item > LI:last-child
+llpan.com###fl_dir_box > DIV.hr:nth-child(7)
+llpan.com##DIV.foot_box:nth-child(14)
+llpan.com##DIV.layout_box.box_shadow:nth-child(8) > DIV.l:first-child > DIV.file_item.f14.box_shadow:last-child
+llpan.com##DIV.foot_box:nth-child(17)
+llpan.com##DIV:nth-child(14) > IFRAME:last-child
+llpan.com##DIV.foot_box:nth-child(19) > DIV:first-child
+llpan.com##DIV.foot_box:nth-child(19) > DIV.foot_info:last-child
+llpan.com##DIV.foot_box:nth-child(19)
+llpan.com###c62187
+llpan.com###c71163
+llpan.com##CENTER:nth-child(5)
+llpan.com###f3
+llpan.com###f4
+llpan.com##DIV.foot_box:nth-child(9)
+llpan.com##DIV.foot_box:nth-child(18)
+|http://www.567pan.*/file-$s@var secs = *;@var secs = 0;@
+|http://www.567pan.*/file$s@href=\"down2-@href=\"down-@
+|http://www.567pan.*/file$s@var paypopupURL=@@
+567pan.com###footer
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.pull-right:last-child > A.btn.btn-app.btn-mini.btn-warning:nth-child(3)
+567pan.com##DIV.lo_box.box_shadow:nth-child(16)
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span9:first-child > DIV.header_content:nth-child(6)
+567pan.com###aswift_0
+567pan.com###aswift_0_anchor
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span9:first-child > DIV.header_content:last-child
+567pan.com###aswift_0_expand
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span9:first-child > INS.adsbygoogle:nth-child(8)
+567pan.com###aswift_1
+567pan.com###aswift_1_anchor
+567pan.com###aswift_1_expand
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###aswift_2
+567pan.com###aswift_4
+567pan.com###aswift_3
+567pan.com###aswift_3_anchor
+567pan.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:nth-child(9)
+567pan.com###aswift_4_anchor
+567pan.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:last-child
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+567pan.com###aswift_2_anchor
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+567pan.com###main-content > DIV.bottom-hint:last-child
+567pan.com###page-content > INS.adsbygoogle:nth-child(3)
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > INS.adsbygoogle:nth-child(2)
+567pan.com###aswift_2_expand
+567pan.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > INS.adsbygoogle:nth-child(9)
+567pan.com###page-content > DIV.row-fluid:last-child > DIV:last-child > INS.adsbygoogle:nth-child(7)
+567pan.com##DIV.navbar.navbar-inverse:nth-child(3) > DIV.navbar-inner > DIV.container-fluid:last-child
+567pan.com##DIV.navbar.navbar-inverse:nth-child(3) > DIV.navbar-inner
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:first-child > DIV.span9:first-child > INS.adsbygoogle:nth-child(5)
+567pan.com###page-content > DIV.page-header.position-relative:first-child > INS.adsbygoogle:nth-child(3)
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV:last-child
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > INS.adsbygoogle:nth-child(2)
+567pan.com###aswift_3_expand
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > INS.adsbygoogle:nth-child(7)
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+567pan.com###page-content > DIV.bottom-hint:last-child
+567pan.com###main-container > DIV.lo_box.box_shadow:nth-child(6)
+567pan.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+567pan.com###main-content > DIV:nth-child(4)
+567pan.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body.clear:last-child > INS.adsbygoogle:nth-child(6)
+567pan.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+567pan.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+567pan.com##DIV.lo_box.box_shadow:nth-child(10)
+567pan.com##DIV.lo_box.box_shadow:nth-child(11)
+567pan.com##DIV.lo_box.box_shadow:nth-child(17)
+567pan.com##DIV.foot_box:nth-child(6)
+567pan.com##DIV.body_top:nth-child(2) > DIV.l:first-child
+567pan.com##DIV.head_box:nth-child(3)
+567pan.com###breadcrumbs
+doufile.com###aswift_0
+doufile.com###aswift_0_anchor
+doufile.com###aswift_0_expand
+doufile.com##DIV.ad970:nth-child(3) > INS.adsbygoogle:nth-child(3)
+doufile.com##DIV.content:nth-child(4) > DIV.r336:last-child
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV.ad468:nth-child(4)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.vip1:nth-child(2)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > UL:nth-child(10)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV.ad468:last-child
+doufile.com##DIV.ad970:nth-child(4) > A > IMG
+doufile.com##DIV.content:nth-child(5) > DIV.r336:last-child
+doufile.com##DIV.content:nth-child(5) > DIV.l624:first-child > SPAN:nth-child(2) > DIV.ad468:last-child
+doufile.com##DIV.content:nth-child(5) > DIV.l624:first-child > DIV.downqu:nth-child(4)
+doufile.com##DIV.ad970:nth-child(7) > INS.adsbygoogle:nth-child(3)
+doufile.com##FOOTER.group:nth-child(9)
+doufile.com###down_link > A:last-child
+doufile.com##FOOTER.group:nth-child(7)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free4:nth-child(2)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > IMG:nth-child(2)
+doufile.com###free6
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > DIV:first-child
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > DIV:last-child
+doufile.com##DIV.header:nth-child(2) > DIV.head > UL:nth-child(2)
+doufile.com##DIV.header:nth-child(2) > DIV.head > A:first-child > DIV.logo
+doufile.com##DIV.ad970:nth-child(3) > A > IMG
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(5) > DIV.vip1:nth-child(2)
+doufile.com##DIV.content:nth-child(4) > DIV.l624:first-child > UL:last-child
+doufile.com###wait_div
+|http://www.ccchoo.*/down-$s@var secs = *;@var secs = 0;@
+|http://www.ccchoo.*/down$s@href=\"down2-@href=\"down-@
+|http://www.ccchoo.*/down$s@var paypopupURL=@@
+ccchoo.com##DIV.foot_box:nth-child(13)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix:first-child
+ccchoo.com###ann_list > UL > A > IMG
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > UL.clearfix.down_three:nth-child(3) > LI.col-md-3.col-sm-6.col-xs-12:first-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > UL.clearfix.down_three:nth-child(3) > LI.col-md-3.col-sm-6.col-xs-12:nth-child(2)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > UL.clearfix.down_three:nth-child(3) > LI.col-md-3.col-sm-6.col-xs-12:nth-child(3)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > UL.clearfix.down_three:nth-child(3)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(2) > SPAN
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(2)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(4) > SPAN
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(4)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix.down_five:nth-child(5) > DIV.col-md-6.col-sm-6.col-xs-12.down_five_main:first-child > UL.clearfix:nth-child(2) > LI.left:first-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix.down_five:nth-child(5) > DIV.col-md-6.col-sm-6.col-xs-12.down_five_main:first-child > UL.clearfix:nth-child(2)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix.down_five:nth-child(5) > DIV.col-md-6.col-sm-6.col-xs-12.down_five_main.down_five_rt:last-child > UL.clearfix:nth-child(2) > LI.left:nth-child(5)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix.down_five:nth-child(5) > DIV.col-md-6.col-sm-6.col-xs-12.down_five_main.down_five_rt:last-child > UL.clearfix:nth-child(2)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(6) > SPAN
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.down_tl:nth-child(6)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix:last-child > DIV.col-md-6.col-sm-6.col-xs-12:first-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_two:last-child > DIV.clearfix:last-child > DIV.col-md-6.col-sm-6.col-xs-12:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.foot_box:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_one.clearfix:nth-child(2) > DIV.col-md-8.col-sm-7.col-xs-12.down_one_lf:first-child > P:last-child > SPAN.bc:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_one.clearfix:nth-child(2) > DIV.col-md-8.col-sm-7.col-xs-12.down_one_lf:first-child > P:last-child > SPAN.bc:nth-child(4)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:nth-child(2) > DIV.down_one.clearfix:nth-child(2) > DIV.col-md-8.col-sm-7.col-xs-12.down_one_lf:first-child > P:last-child > SPAN.bc:nth-child(3)
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.dl_by:first-child > DIV.ksk > CENTER:first-child
+ccchoo.com###bdshare
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.dl_by:first-child > DIV.ksk > DIV.y-box:nth-child(3)
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.dl_by:first-child > DIV.ksk > DIV.bottom-hint:last-child
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.foot_box:last-child
+ccchoo.com##DIV.container:nth-child(11) > DIV.index_main.container:last-child > DIV.lo_box.box_shadow:nth-child(6)
+ccchoo.com###aswift_0
+ccchoo.com###aswift_0_anchor
+ccchoo.com###aswift_0_expand
+ccchoo.com##DIV.container:nth-child(9) > INS.adsbygoogle:nth-child(4)
+ccchoo.com##DIV.container:nth-child(9) > CENTER:nth-child(6)
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.ksk:first-child > DIV > DIV.y-box:nth-child(4) > DIV.q-box:first-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.ksk:first-child > DIV > DIV.bottom-hint:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.foot_box:last-child > DIV.footer
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.foot_box:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.lo_box.box_shadow:nth-child(7)
+ccchoo.com###aswift_1
+ccchoo.com###aswift_1_anchor
+ccchoo.com###aswift_1_expand
+ccchoo.com###addr_list1 > A.bc:first-child
+ccchoo.com###addr_list1 > A.bc:nth-child(2)
+ccchoo.com###addr_list1 > A.bc:nth-child(3)
+ccchoo.com###addr_list1 > A.bc:last-child
+ccchoo.com##DIV.container:nth-child(9) > DIV.index_main.container:last-child > DIV.dl_by > DIV.ksk:first-child > DIV > DIV.b-box:nth-child(2) > INS.adsbygoogle:nth-child(4)
+ccchoo.com##DIV.container:nth-child(9) > DIV.lo_box.box_shadow:nth-child(7)
