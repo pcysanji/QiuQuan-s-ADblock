@@ -1,0 +1,75 @@
+! 2018/12/16 下午3:11:26 http://www.greenxf.com/soft/109991.html
+www.greenxf.com##li:nth-of-type(5) > .dkl2
+
+! 2018/12/16 下午3:11:58 http://www.greenxf.com/soft/109991.html
+www.greenxf.com##li:nth-of-type(1) > .dkl2
+
+! 2018/12/16 下午3:12:04 http://www.greenxf.com/soft/109991.html
+www.greenxf.com##li:nth-of-type(2) > .dkl2
+
+! 2018/12/16 下午3:12:09 http://www.greenxf.com/soft/109991.html
+www.greenxf.com##li:nth-of-type(3) > .dkl2
+
+! 2018/12/16 下午3:12:23 http://www.greenxf.com/soft/109991.html
+www.greenxf.com##li:nth-of-type(4) > .dkl2
+
+! 2018/12/16 下午3:12:30 http://www.greenxf.com/soft/109991.html
+www.greenxf.com###download-position
+
+! 2018/12/16 下午3:13:00 http://www.greenxf.com/soft/109991.html
+www.greenxf.com##.col1
+
+! 2018/12/16 下午3:13:28 http://www.greenxf.com/soft/109991.html
+www.greenxf.com##.A9 > .software-download.cp
+
+! 2018/12/16 下午9:39:44 https://rsload.net/soft/page/2/
+rsload.net##div.side-box:nth-of-type(3) > .side-bc
+
+! 2018/12/16 下午10:55:11 https://www.laomoit.com/acrobatprodc2019xx.html
+||wx2.sinaimg.cn/large/4c929964ly1fxuh6oir07j208c08cn0y.jpg$image
+
+! 2018/12/16 下午10:55:19 https://www.laomoit.com/acrobatprodc2019xx.html
+||wx1.sinaimg.cn/large/4c929964ly1fy2x86w0beg20k801oq4i.gif$image
+
+! 2018/12/16 下午10:56:24 https://www.laomoit.com/everything.html
+||wx1.sinaimg.cn/large/4c929964ly1fy2x86w0beg20k801oq4i.gif$image
+
+! 2018/12/17 上午12:35:55 https://www.myqqjd.com/wp-content/themes/begin/down.php?id=1883
+www.myqqjd.com##[href^="https://m.aliyun.com/act/team1212/"]
+
+! 2018/12/17 上午6:24:08 https://www.myqqjd.com/
+www.myqqjd.com##.header-sub
+
+! 2018/12/17 下午2:41:14 http://wosn.net/ziyuan/
+wosn.net##[src="http://ww1.sinaimg.cn/large/006VHXWOly1fsipthlwcqj30820c3mxf.jpg"]
+
+avgle.com###player_3x2_container
+@@||avgle.com/avideos.php
+avgle.com#@#script:inject(abort-on-property-read.js, ExoDetector)
+
+! 2018/12/23 上午12:54:54 https://www.landiannews.com/
+www.landiannews.com##.special-message-content
+
+! 2018/12/23 上午12:58:40 https://www.landiannews.com/archives/53828.html
+||static.lancdn.com/tmp3/GG_Notice.png$image
+
+! 2018/12/26 下午1:04:02 http://www.ypojie.com/
+||www.ypojie.com/wp-content/uploads/2018/11/zhifuba.png$image
+
+! 2018/12/30 上午1:17:12 https://passport.csdn.net/login
+||csdnimg.cn/passport/login-banner.png$image
+
+! 2019/1/1 下午7:54:47 http://www.xsjdy.net/search/?s=%E5%A4%A7%E8%B1%A1%E5%B8%AD%E5%9C%B0
+www.xsjdy.net##.active.item
+
+! 2019/1/1 下午7:54:54 http://www.xsjdy.net/search/?s=%E5%A4%A7%E8%B1%A1%E5%B8%AD%E5%9C%B0
+||ws1.sinaimg.cn/large/007fpI8zgy1fvct36e4g5j31hc0b4ax3.jpg$image
+
+! 2019/1/1 下午7:55:16 http://www.xsjdy.net/movie/24004/
+www.xsjdy.net###carousel-example-generic
+
+! 2019/1/1 下午7:55:33 http://www.xsjdy.net/movie/24004/
+www.xsjdy.net##div.shadow.contentss:nth-of-type(2)
+
+! 2019/1/1 下午7:55:50 http://www.xsjdy.net/movie/24004/
+www.xsjdy.net##.item-box
