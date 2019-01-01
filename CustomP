@@ -4,6 +4,9 @@
 ! Last Modified: 2019年01月01日 20:00
 ! Homepage: 剪辑交流群：685624383
 
+!本规是我个人在浏览某些网站时主动屏蔽的一些东西，可能是广告，可能是推广资源，可能是我不愿意看到的东西
+
+
 ! 2018/12/16 下午3:11:26 http://www.greenxf.com/soft/109991.html
 www.greenxf.com##li:nth-of-type(5) > .dkl2
 
