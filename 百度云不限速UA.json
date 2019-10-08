@@ -6,7 +6,7 @@
 			"name": "百度云不限速UA",
 			"ruleType": "modifySendHeader",
 			"matchType": "regexp",
-			"pattern": "^http(s?)://*.baidu.com/(.*)",
+			"pattern": "^http(s?)://((.*)\\.|)(baidu.*|pandownload|staticfile|googletagmanager|cnzz)\\.(com|org)/(.*)",
 			"exclude": "",
 			"group": "未分组",
 			"isFunction": false,
